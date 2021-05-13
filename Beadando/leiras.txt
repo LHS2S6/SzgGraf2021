@@ -1,0 +1,12 @@
+A felhasználó a grafikus programot elindítva az univerzumban találja magát a nap és a földünk között. 
+Az alkalmazás elindítását követően a felhasználót egy help menü fogadja az „F1" Billentyű megnyomása esetén. 
+Az univerzumban jelenleg 3 bolygó van lemodellezve a Nap, Föld, Mars. 
+Az univerzumban a közlekedést segíti a „WASD" billentyűzet, 
+  illetve a „SPACE", amellyel a magasságot növelhetjük, 
+  illetve a „C" billentyű, amellyel a magasságod csökkentheti a felhasználó. 
+A bolygók forognak a saját tengelyeik körül, illetve forognak a nap körül, 
+  ha a felhasználó az „E" billentyűt lenyomja akkor a bolygók elindulnak keringeni a nap körül. 
+A föld tengelye körüli mozgást meg lehet állítani, illetve el lehet indítani a „Q" billentyű lenyomásával. 
+A felhasználónak lehetősége van körbejárni a bolygókat, illetve az „F" billentyű lenyomása esetén egy aszteroida indul útnak. 
+A felhasználónak lehetősége van a fényforrás csökkentésére, illetve növelésére, amelyet a „+ és – „billentyűvel van lehetősége. 
+Ha a felhasználó valamilyen objektumnak megy, akkor ez esetben a felhasználót visszateszi a kiindulási pontba és onnan folytathatja a felfedezését.
